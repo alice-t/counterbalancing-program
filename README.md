@@ -1,4 +1,4 @@
-# Crossbalancing Program
+# Counterbalancing Program
 No one wants order effects messing around in their methodology. This is a command line Python program to automatically counterbalance the order of conditions. You input the number of conditions and the number of participants, and the program will output the most optimal set of orderings for the given number of participants.
 
 ## Contents:
