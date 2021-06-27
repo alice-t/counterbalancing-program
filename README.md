@@ -1,10 +1,11 @@
+# Crossbalancing Program
+No one wants order effects messing around in their methodology. This is a command line Python program to automatically counterbalance the order of conditions. You input the number of conditions and the number of participants, and the program will output the most optimal set of orderings for the given number of participants.
+
+## Contents:
   * [How it works](#how-it-works)
   * [How to run](#how-to-run)
     + [How to run on your PC](#how-to-run-on-your-pc)
 
-
-# Crossbalancing Program
-No one wants order effects messing around in their methodology. This is a command line Python program to automatically counterbalance the order of conditions. You input the number of conditions and the number of participants, and the program will output the most optimal set of orderings for the given number of participants.
 
 ## How it works
 Basically, the program compares two permutatons and scores the difference (larger difference = larger score). For example, if you have [1, 2, 3, 4], the sequence [4, 3, 1, 2] will score higher than [1, 2, 4, 3] since the positions of the conditions has changed more. It does this for every possible ordering of conditions and you end up with an N sized subset of orders (where N = number of participants). The distribution of conditions across this subset is listed in the final output and there will be a maximum of 1 difference in the amount of times a condition is in a certain position. Within the subset itself, the program also ensures there are no patterns within the orders that it selected. This means that, for example, condition 1 will not be followed by condition 3 multiple times (or more than is necessary).
