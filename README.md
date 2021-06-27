@@ -1,8 +1,6 @@
-[Crossbalancing Program](#crossbalancing-program)
   * [How it works](#how-it-works)
   * [How to run](#how-to-run)
     + [How to run on your PC](#how-to-run-on-your-pc)
-    + [Note](#note)
 
 
 # Crossbalancing Program
