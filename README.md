@@ -10,6 +10,6 @@ Python program to automatically counterbalance orders of conditions
 
 ![command prompt](https://i.ibb.co/mGd81ps/cmd1.png)
 
-7. Then type "python permutations.py" and press enter on your keyboard to run
+6. Then type "python permutations.py" and press enter on your keyboard to run
 
 ![command prompt2](https://i.ibb.co/R3QzJ7M/cmd2.png)
