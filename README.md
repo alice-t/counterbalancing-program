@@ -34,6 +34,8 @@ When you run the program you will see a lot of other stuff print out before this
 Command line can be intimidating, so you can use [this link](https://py2.codeskulptor.org/#user48_IGMEb8Teln_1.py ) to run the program in your web browser instead :)
 
 ### How to run on your PC
+If you do want to run the program on your own PC, follow these instructions:
+
 **1.** Make sure Python 3 is installed on your computer https://www.python.org/downloads/
 **2.** Download permutations.py
 **3.**  Make a note of the file path location of wherever it saved e.g. C:\Users\Alice\Downloads
