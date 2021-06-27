@@ -49,7 +49,6 @@ Press the little play icon on the left of the blue menu bar to run the program. 
 Running it through the link can sometimes be a lot slower than running it on your own PC. It's fine if you have a small number of conditions and participants (around 5 conditions and 12-15 participants). If you have a large amount of participants or conditions, the universe might die before it finds an answer, so I highly reccommend you download the file and run it yourself to expedite the process.  
 
 ### How to run on your PC
-If you do want to run the program on your own PC, follow these instructions:
 
 **1.** Make sure Python 3 is installed on your computer https://www.python.org/downloads/
 
