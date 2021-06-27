@@ -30,6 +30,9 @@ Count of each condition per position:
 Here you can see the final subset of orders, and also the amount of times each condition appears in each position.
 When you run the program you will see a lot of other stuff print out before this final output - you can ignore all this. It's just to show what the computer is doing to get to the final answer.
 
+**Note:** The more conditions and participants you have, the longer it'll take to run.
+
+
 ## How to run
 Command line can be intimidating, so you can use [this link](https://py2.codeskulptor.org/#user48_IGMEb8Teln_1.py ) to run the program in your web browser instead :)
 Press the little play icon on the left of the blue menu bar to run the program. You should get a pop-up asking for the number of conditions and then another one asking for the number of participants.
@@ -56,6 +59,3 @@ If you do want to run the program on your own PC, follow these instructions:
 **7.** It will ask you for the number of conditions, then number of participants, and finally calculate the optimal orderings from all possible permutations. The final output will look something like this (depending on how many conditions and participants you have):
 
 ![command prompt2](https://i.ibb.co/xqfxV5L/cmd3.png)
-
-### Note
-The more conditions you have, the longer it'll take to run.
