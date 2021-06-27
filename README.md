@@ -10,6 +10,13 @@ Python program to automatically counterbalance orders of conditions
 
 ![command prompt](https://i.ibb.co/mGd81ps/cmd1.png)
 
-6. Then type "python permutations.py" and press enter on your keyboard to run
+6. Then type "python permutations.py" and press enter on your keyboard to run the program
 
 ![command prompt2](https://i.ibb.co/R3QzJ7M/cmd2.png)
+
+7. It will ask you for the number of conditions, then number of participants, and finally calculate the optimal orderings from all possible permutations. The final output will look something like this (depending on how many conditions and participants you have):
+
+![command prompt2](https://i.ibb.co/xqfxV5L/cmd3.png)
+
+### Note
+The more conditions you have, the longer it'll take to run.
