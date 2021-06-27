@@ -32,6 +32,7 @@ When you run the program you will see a lot of other stuff print out before this
 
 ## How to run
 Command line can be intimidating, so you can use [this link](https://py2.codeskulptor.org/#user48_IGMEb8Teln_1.py ) to run the program in your web browser instead :)
+Press the little play icon on the left to run the program.
 
 ### How to run on your PC
 If you do want to run the program on your own PC, follow these instructions:
