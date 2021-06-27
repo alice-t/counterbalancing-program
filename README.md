@@ -32,10 +32,14 @@ When you run the program you will see a lot of other stuff print out before this
 
 **Note:** The more conditions and participants you have, the longer it'll take to run.
 
-
 ## How to run
-Command line can be intimidating, so you can use [this link](https://py2.codeskulptor.org/#user48_IGMEb8Teln_1.py ) to run the program in your web browser instead :)
+Command line can be intimidating, so you can use these links to to run the program in your web browser instead :)
+For the full program use [this link](https://py2.codeskulptor.org/#user48_IGMEb8Teln_1.py ) 
+For the faster version use [this link](https://py2.codeskulptor.org/#user48_dSOzRVwd5r_0.py). However, speed comes at a cost. This one doesn't monitor the distribution of conditions per position so you might get condition 1 appearing first three times, but condition two appears first only once. Use the link above if you want to ensure the position distribution differs by a max of 1.
+
 Press the little play icon on the left of the blue menu bar to run the program. You should get a pop-up asking for the number of conditions and then another one asking for the number of participants.
+
+Running it through that link can sometimes be a lot slower than running it on your own PC. It's fine if you have a small number of conditions and participants (around 5 conditions and 12-15 participants). If you have a large amount of participants or conditions, the universe might die before it finds an answer, so I highly reccommend you download the file and run it yourself to expedite the process.
 
 ### How to run on your PC
 If you do want to run the program on your own PC, follow these instructions:
