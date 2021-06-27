@@ -3,8 +3,6 @@ No one wants order effects messing around in their methodology. This is a comman
 
 Basically, the program compares two permutatons and scores the difference (larger difference = larger score). For example, if you have [1, 2, 3, 4], the sequence [4, 3, 1, 2] will score higher than [1, 2, 4, 3] since the positions of the conditions has changed more. It does this for every possible ordering of conditions and you end up with an N sized subset of orders (where N = number of participants). The distribution of conditions across this subset is listed in the final output and there will be a maximum of 1 difference in the amount of times a condition is in a certain position. Within the subset itself, the program also ensures there are no patterns within the orders that it selected. This means that, for example, condition 1 will not be followed by condition 3 multiple times (or more than is necessary).
 
-an even distribution of conditions (i..e making sure that each condition isn't in one position more than another position).
-
 The final output looks like this:
 
 ```
