@@ -36,6 +36,8 @@ When you run the program you will see a lot of other stuff print out before this
 
 ## How to run
 Command line can be intimidating, so you can use these links to to run the program in your web browser instead :)
+
+
 For the full program use [this link](https://py2.codeskulptor.org/#user48_IGMEb8Teln_1.py ) 
 
 
