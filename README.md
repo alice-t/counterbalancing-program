@@ -41,7 +41,7 @@ Command line can be intimidating, so you can use these links to to run the progr
 For the full program use [this link](https://py2.codeskulptor.org/#user48_IGMEb8Teln_1.py ) 
 
 
-For the faster version use [this link](https://py2.codeskulptor.org/#user48_dSOzRVwd5r_0.py). However, speed comes at a cost. This one doesn't monitor the distribution of conditions per position so you might get condition 1 appearing first three times, but condition two appears first only once. Use the link above if you want to ensure the position distribution differs by a max of 1.  
+For the faster version use [this link](https://py2.codeskulptor.org/#user48_dSOzRVwd5r_0.py). However, speed comes at a cost. This one doesn't monitor the distribution of conditions per position so you might get condition 1 appearing first three times, but condition two appears first only once. Use the first link if you want to ensure the position distribution differs by a max of 1.  
 
 
 Press the little play icon on the left of the blue menu bar to run the program. You should get a pop-up asking for the number of conditions and then another one asking for the number of participants.  
