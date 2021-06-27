@@ -8,7 +8,7 @@ No one wants order effects messing around in their methodology. This is a comman
 
 
 ## How it works
-Basically, the program compares two permutatons and scores the difference (larger difference = larger score). For example, if you have [1, 2, 3, 4], the sequence [4, 3, 1, 2] will score higher than [1, 2, 4, 3] since the positions of the conditions has changed more. It does this for every possible ordering of conditions and you end up with an N sized subset of orders (where N = number of participants). The distribution of conditions across this subset is listed in the final output and there will be a maximum of 1 difference in the amount of times a condition is in a certain position. Within the subset itself, the program also ensures there are no patterns within the orders that it selected. This means that, for example, condition 1 will not be followed by condition 3 multiple times (or more than is necessary).
+Basically, the program compares two permutatons and scores the difference (larger difference = larger score). For example, if you have [1, 2, 3, 4], the sequence [4, 3, 1, 2] will score higher than [1, 2, 4, 3] since the positions of the conditions has changed more. It does this for every possible ordering of conditions and you end up with an N sized subset of orders (where N = number of participants). The distribution of conditions across this subset is listed in the final output and there will be a maximum of 1 difference in the amount of times a condition is in a certain position. Within the subset itself, the program also ensures there are no patterns within the orders that it selected. This means that, for example, condition 1 will not be followed by condition 3 multiple times (or more than is necessary). <br />
 
 The final output looks like this:
 
@@ -28,16 +28,16 @@ Count of each condition per position:
 4: [2, 1, 1, 2]
 ```
 Here you can see the final subset of orders, and also the amount of times each condition appears in each position.
-When you run the program you will see a lot of other stuff print out before this final output - you can ignore all this. It's just to show what the computer is doing to get to the final answer.
+When you run the program you will see a lot of other stuff print out before this final output - you can ignore all this. It's just to show what the computer is doing to get to the final answer. <br />
 
 **Note:** The more conditions and participants you have, the longer it'll take to run.
 
 ## How to run
 Command line can be intimidating, so you can use these links to to run the program in your web browser instead :)
 For the full program use [this link](https://py2.codeskulptor.org/#user48_IGMEb8Teln_1.py ) 
-For the faster version use [this link](https://py2.codeskulptor.org/#user48_dSOzRVwd5r_0.py). However, speed comes at a cost. This one doesn't monitor the distribution of conditions per position so you might get condition 1 appearing first three times, but condition two appears first only once. Use the link above if you want to ensure the position distribution differs by a max of 1.
+For the faster version use [this link](https://py2.codeskulptor.org/#user48_dSOzRVwd5r_0.py). However, speed comes at a cost. This one doesn't monitor the distribution of conditions per position so you might get condition 1 appearing first three times, but condition two appears first only once. Use the link above if you want to ensure the position distribution differs by a max of 1. <br />
 
-Press the little play icon on the left of the blue menu bar to run the program. You should get a pop-up asking for the number of conditions and then another one asking for the number of participants.
+Press the little play icon on the left of the blue menu bar to run the program. You should get a pop-up asking for the number of conditions and then another one asking for the number of participants. <br />
 
 Running it through that link can sometimes be a lot slower than running it on your own PC. It's fine if you have a small number of conditions and participants (around 5 conditions and 12-15 participants). If you have a large amount of participants or conditions, the universe might die before it finds an answer, so I highly reccommend you download the file and run it yourself to expedite the process.
 
