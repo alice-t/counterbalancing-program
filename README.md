@@ -38,9 +38,9 @@ If you do want to run the program on your own PC, follow these instructions:
 
 **1.** Make sure Python 3 is installed on your computer https://www.python.org/downloads/
 
-**2.** Download permutations.py
+**2.** Download permutations.py using the green "Code" download button above and download the ZIP file.
 
-**3.**  Make a note of the file path location of wherever it saved e.g. C:\Users\Alice\Downloads
+**3.**  Extract permutations.py to a place of your choice, e.g. downloads folder. Make a note of the file path location of wherever it saved e.g. C:\Users\Alice\Downloads
 
 **4.**  This program runs through command prompt. Press the windows key + R on your keyboard and then type “cmd”. Alternatively, go to your taskbar, click the search button and search for command prompt. Command prompt is known as Terminal on Mac (see here if you're stuck on Mac https://support.apple.com/en-gb/guide/terminal/apd5265185d-f365-44cb-8b09-71a064a42125/mac)
 
